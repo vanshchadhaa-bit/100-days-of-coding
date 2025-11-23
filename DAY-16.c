@@ -26,6 +26,7 @@ int main() {
     return 0;
 }
 
+
 //Q-32 Write a program to check if a number is a palindrome.
 
 #include <stdio.h>
